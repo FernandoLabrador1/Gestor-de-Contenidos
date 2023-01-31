@@ -1,0 +1,2 @@
+Usuarios: usuario1, usuario2, usuario3
+Contraseña para todos: 1234
