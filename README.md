@@ -8,3 +8,5 @@ Pequeño gestor de contenidos que permita a los usuarios registrados y que inici
 
 - Las consultas son preparadas, con marcadores y usando PDO.
 - El alta de los usuarios se hacen con contraseña encriptada.
+
+Para poder ejecutar el gestor necesitaremos de un servidor (PHPMyAdmin nos lo proporciona).
